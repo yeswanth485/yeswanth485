@@ -66,10 +66,10 @@ Areas of focus:
 - Shipping-cost estimation
 
 Existing MVP:
-https://ai-packaging.vercel.app/
+https://slaizer.terybi.com/
 
 Repository:
-https://github.com/yeswanth485/AI-Packaging
+https://github.com/yeswanth485/Shipzi.com.git
 
 Note: The repository is a fork. Refer to its upstream
 source and attribution when reviewing the implementation.
